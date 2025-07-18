@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=adjoint_sampling&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Adjoint Sampling
 
 This repository contains the official implementation and experiments for Adjoint Sampling: Highly Scalable Diffusion
